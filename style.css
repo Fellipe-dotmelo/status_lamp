@@ -1,0 +1,19 @@
+body{
+  background: white;
+}
+
+header, main{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button{
+  margin: 20px;
+  width: 100px;
+  padding: 20px 0;
+  border: none;
+  border-radius: 10px;
+  font-size: 12pt;
+  font-weight: bold;
+}
